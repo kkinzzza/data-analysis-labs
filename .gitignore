@@ -1,2 +1,4 @@
 *.dat
 *.csv
+*.html
+.DS_Store
